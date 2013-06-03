@@ -3,7 +3,7 @@ old_code-updates_in_process
 
 Lots of incomplete, learning-exercise-ish, and/or plain bad code, written in a variety of languages ( including ones I didn't or don't know ).
 
-Uploaded to a public repo, so that embarrassment will steadily force me to:
+Uploaded to a public repo, so that embarrassment will steadily force me to:  
     (1) finish it
     (2) fix it
     (3) rewrite it, now that I know what I'm doing
